@@ -1,6 +1,6 @@
 # Assignment-1-1
-<!Create a webpage with an image and paragraph?
 <!Doctype HTML>
+<!--Create a webpage with an image and paragraph-->
 <HTML>
 <Head></Head>
 <Body>

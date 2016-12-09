@@ -5,6 +5,6 @@
 <Head></Head>
 <Body>
   <p>Hello World</p>
-  <img src="bg3.png"/>
+  <img src="bg3.jpg"/>
 </Body>
 </HTML>
